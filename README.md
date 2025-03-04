@@ -6,7 +6,7 @@ A simple GUI-based application built using Python's Tkinter library. It allows u
 Ensure you have Python installed (Python 3 recommended).
 
 ### Steps
-1. Copy the script into a `.py` file (e.g., `converter.py`).
+1. Copy the script into a `.py` file (e.g., `main.py`).
 2. Open a terminal or command prompt in the directory containing the script.
 3. Run the script using the command:
    
