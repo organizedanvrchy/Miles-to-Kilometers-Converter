@@ -11,7 +11,7 @@ Ensure you have Python installed (Python 3 recommended).
 3. Run the script using the command:
    
    ```sh
-   python converter.py
+   python main.py
    ```
 
 ## Features
